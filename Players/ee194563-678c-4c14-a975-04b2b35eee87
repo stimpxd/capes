@@ -1,1 +1,2 @@
-{"uuid":"ee194563-678c-4c14-a975-04b2b35eee87","username":null,"cosmetics":{"lunarclientblue":{"name":"lunarclientblue","type":"cape","scale":0.16,"active":true,"resourceLocation":"link_to_cape"},"wings_file_name_in_cb":{"name":"wings_file_name_in_cb","type":"dragon_wings","scale":0.16,"active":true,"resourceLocation":"link_to_wings"}}}
+{"uuid":"ee194563-678c-4c14-a975-04b2b35eee87","username":null,"cosmetics":{"lunarclientblue":{"name":"lunarclientblue","type":"cape","scale":0.16,"active":true,"resourceLocation":"http://hclethal.us/Capes/lunarclientblue.png
+"},"wings_file_name_in_cb":{"name":"wings_file_name_in_cb","type":"dragon_wings","scale":0.16,"active":true,"resourceLocation":"link_to_wings"}}}
