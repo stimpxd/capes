@@ -1,2 +1,2 @@
-{"uuid":"44181c40-403f-4b41-85f2-44b43043f04a","username":null,"cosmetics":{tryhardinfinity":{"name":"tryhardinfinity","type":"cape","scale":0.16,"active":true,"resourceLocation":"http://hclethal.us/Capes/tryhardinfinity.png
-"},"yellow":{"name":"yellow","type":"dragon_wings","scale":0.12,"active":true,"resourceLocation":"http://hclethal.us/Wings/yellow.png"}}}
+{"uuid":"44181c40-403f-4b41-85f2-44b43043f04a","username":null,"cosmetics":{heart1":{"name":"heart1","type":"cape","scale":0.16,"active":true,"resourceLocation":"http://hclethal.us/Capes/heart1.png
+"},"yellow":{"name":"yellow","type":"dragon_wings","scale":0.12,"active":false,"resourceLocation":"http://hclethal.us/Wings/yellow.png"}}}
